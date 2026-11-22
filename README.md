@@ -52,16 +52,7 @@ I'm interested in **finding meaningful patterns in data** and understanding **wh
 
 > 📂 [Browse all repositories](https://github.com/Anush72?tab=repositories). Project cards are visual summaries; add verified direct repository links when available.
 
-## 📈 My GitHub journey
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anush72&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub account statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anush72&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Repository language statistics" />
-
-</div>
-
-<sub>Stats use a third-party service and may be temporarily unavailable. Repository language distribution is not a measure of proficiency.</sub>
 
 ## 🧭 Where I'm heading
 
