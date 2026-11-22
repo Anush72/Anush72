@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Anush Giri — Data Analytics, Machine Learning, Explainable AI">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080E20"/><stop offset=".55" stop-color="#15163A"/><stop offset="1" stop-color="#071C31"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#54C8FF"/><stop offset="1" stop-color="#AA7AFF"/></linearGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#6F91D0" opacity=".25"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#dots)"/>
+<g fill="none" stroke="#6788FF" stroke-width="2" opacity=".3"><path d="M750 220 Q900 20 1200 90"/><path d="M720 250 Q940 50 1200 140"/><path d="M760 285 Q990 100 1200 190"/></g>
+<g fill="#64D5FF" opacity=".8"><circle cx="860" cy="96" r="5"/><circle cx="1040" cy="158" r="5"/><circle cx="1130" cy="72" r="4"/></g>
+<text x="68" y="76" fill="#64D5FF" font-size="22" font-family="DejaVu Sans,Arial,sans-serif" letter-spacing="5">HELLO, WORLD 👋</text>
+<text x="65" y="153" fill="#F4F6FF" font-size="66" font-weight="bold" font-family="DejaVu Sans,Arial,sans-serif">Anush Giri</text>
+<rect x="68" y="171" width="380" height="5" rx="3" fill="url(#accent)"/>
+<text x="68" y="215" fill="#D1D8F4" font-size="23" font-family="DejaVu Sans,Arial,sans-serif">Data Analytics  •  Machine Learning  •  XAI</text>
+<text x="68" y="258" fill="#91A5C8" font-size="18" font-family="DejaVu Sans,Arial,sans-serif">Curious about data. Focused on understanding AI.</text>
+<g stroke="url(#accent)" fill="none" stroke-width="3" opacity=".85"><path d="M965 68 l-35 33 35 33"/><path d="M1060 68 l35 33 -35 33"/><path d="M1035 54 l-45 97"/></g>
+</svg>
